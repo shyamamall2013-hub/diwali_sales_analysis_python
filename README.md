@@ -107,5 +107,7 @@ Data-Analytics-Project/
 👤 Author
 
 Shyama Mall
-Linkedin - www.linkedin.com/in/contactshyamamall
-GitHub - 
+
+Linkedin: www.linkedin.com/in/contactshyamamall
+
+GitHub: https://github.com/shyamamall2013-hub 
